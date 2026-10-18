@@ -75,9 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samiagitt/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Samiagitt/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/Samiagitt/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/Samiagitt/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Samiagitt/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Samiagitt/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Samiagitt/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
